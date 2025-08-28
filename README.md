@@ -1,8 +1,7 @@
 ![Ably Chat Header](/images/ruby-REST-SDK-github.png)
-[![Gem Version](https://badge.fury.io/rb/ably-rest.svg)](https://rubygems.org/gems/ably-rest)
-[![License](https://badgen.net/github/license/ably/ably-ruby)](https://github.com/ably/ably-ruby/blob/main/LICENSE)
+[![Gem Version](https://img.shields.io/gem/v/ably-rest.svg)](https://rubygems.org/gems/ably-rest)
+[![License](https://img.shields.io/github/license/ably/ably-ruby.svg)](https://github.com/ably/ably-ruby/blob/main/LICENSE)
 
----
 
 # Ably Pub/Sub Ruby REST SDK
 
@@ -25,7 +24,7 @@ Find out more:
 
 Everything you need to get started with Ably:
 
-* [Quickstart in Pub/Sub using Ruby](https://ably.com/docs/getting-started/quickstart?lang=ruby)
+* [Getting started with Pub/Sub using Ruby.](https://ably.com/docs/getting-started/ruby)
 * [SDK Setup for Ruby.](https://ably.com/docs/getting-started/setup?lang=ruby)
 
 ---
