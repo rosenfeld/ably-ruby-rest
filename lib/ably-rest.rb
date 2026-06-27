@@ -29,8 +29,5 @@ require 'ably/rest'
 #
 # @see file:README.md README
 module Ably
-  # Used to alter the user agent to ably-rest-[VERSION]
-  configure_lib_variant = 'rest'
-
   AGENT = "ably-ruby/#{Ably::VERSION} ruby/#{RUBY_VERSION} ably-ruby-rest"
 end
